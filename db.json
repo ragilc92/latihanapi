@@ -29,26 +29,6 @@
 {"id":27,"name":"E-Class","category":"Khaki"},
 {"id":28,"name":"GTI","category":"Green"},
 {"id":29,"name":"Talon","category":"Green"},
-{"id":30,"name":"Diablo","category":"Violet"},
-{"id":31,"name":"XL-7","category":"Blue"},
-{"id":32,"name":"Impreza","category":"Goldenrod"},
-{"id":33,"name":"Venza","category":"Mauv"},
-{"id":34,"name":"Quattroporte","category":"Khaki"},
-{"id":35,"name":"SL65 AMG","category":"Aquamarine"},
-{"id":36,"name":"Karif","category":"Teal"},
-{"id":37,"name":"3500","category":"Green"},
-{"id":38,"name":"Camry","category":"Red"},
-{"id":39,"name":"Landaulet","category":"Yellow"},
-{"id":40,"name":"960","category":"Goldenrod"},
-{"id":41,"name":"Lynx","category":"Red"},
-{"id":42,"name":"9-3","category":"Red"},
-{"id":43,"name":"Yukon","category":"Fuscia"},
-{"id":44,"name":"Touareg","category":"Yellow"},
-{"id":45,"name":"D350 Club","category":"Turquoise"},
-{"id":46,"name":"Discovery","category":"Mauv"},
-{"id":47,"name":"430","category":"Aquamarine"},
-{"id":48,"name":"626","category":"Purple"},
-{"id":49,"name":"Explorer","category":"Maroon"},
-{"id":50,"name":"Express 1500","category":"Purple"}
+{"id":30,"name":"Diablo","category":"Violet"}
 ]
 }
